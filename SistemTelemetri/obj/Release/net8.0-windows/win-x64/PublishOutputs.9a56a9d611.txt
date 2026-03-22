@@ -1,0 +1,9 @@
+C:\Users\Recep\Desktop\Sistem-Telemetri\SistemTelemetri\bin\Release\net8.0-windows\win-x64\publish\SistemTelemetri.pdb
+C:\Users\Recep\Desktop\Sistem-Telemetri\SistemTelemetri\bin\Release\net8.0-windows\win-x64\publish\D3DCompiler_47_cor3.dll
+C:\Users\Recep\Desktop\Sistem-Telemetri\SistemTelemetri\bin\Release\net8.0-windows\win-x64\publish\PenImc_cor3.dll
+C:\Users\Recep\Desktop\Sistem-Telemetri\SistemTelemetri\bin\Release\net8.0-windows\win-x64\publish\PresentationNative_cor3.dll
+C:\Users\Recep\Desktop\Sistem-Telemetri\SistemTelemetri\bin\Release\net8.0-windows\win-x64\publish\vcruntime140_cor3.dll
+C:\Users\Recep\Desktop\Sistem-Telemetri\SistemTelemetri\bin\Release\net8.0-windows\win-x64\publish\wpfgfx_cor3.dll
+C:\Users\Recep\Desktop\Sistem-Telemetri\SistemTelemetri\bin\Release\net8.0-windows\win-x64\publish\MonoPosixHelper.dll
+C:\Users\Recep\Desktop\Sistem-Telemetri\SistemTelemetri\bin\Release\net8.0-windows\win-x64\publish\libMonoPosixHelper.dll
+C:\Users\Recep\Desktop\Sistem-Telemetri\SistemTelemetri\bin\Release\net8.0-windows\win-x64\publish\SistemTelemetri.exe
